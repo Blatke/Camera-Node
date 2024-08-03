@@ -25,4 +25,5 @@ A: With ensuring that the 3 requirements listed on the thread above are all met,
 
 1. There is no character existing in the scene. There has to be at least one chara in the scene to activate NodeConstraints the plugin. So, just **add any one chara** to let it work.
 2. The FK function of any objects in this mod's folder, especially the Aim sphere, is enabled on Anim tab. Active FK node will disturb NodeConstraints as well as the relationships among objects in this mod. So be sure that **their FKs are all disabled**.
+
 ![d6c45d7c7038de3241c6a16d6f8cb437_image_ex=66af48a2 is=66adf722 hm=65f33e1249100dca641e094f4024b3bc0d45c816cfe85bc98033986e53b95877](https://github.com/user-attachments/assets/b604b3e4-f1b2-451e-bdc8-33e43887de7f)
