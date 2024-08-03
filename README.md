@@ -4,7 +4,7 @@ This is a mod for adding a camera and a spotlight in the scene in Studio and con
 ![AI_2023-12-01-00-38-03-701](https://github.com/user-attachments/assets/f5893bf8-5170-4dd1-a963-24f47d777e97)
 
 ## How to Use
-Please download the .zip file for the latest version on the [Release page](https://github.com/Blatke/Camera-Node/releases), and uncompress it. There are two files included:
+Please download the **Camera.Node.zip** file for the latest version on the [Release page](https://github.com/Blatke/Camera-Node/releases), and uncompress it. There are two files included:
 1. A mod file, needs to drag and drop it into your **mods** folder.
 2. A scene card file in format of .png, needs to put it into your **UserData\Studio\scene** folder
 
